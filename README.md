@@ -1,6 +1,6 @@
 # Amperstand
 
-We are betting on the domain-specific GPTs (read GPT marketplace) dynamics and developing a modern open-source email marketing platform. The platform uses a "bring your own LLM" approach to run your email campaigns. You can have better control over your personal data and transparency while managing costs effectively. 
+Amperstand – a modern open-source email marketing platform. We are betting on the domain-specific GPTs (read GPT marketplace) dynamics and hence, the platform uses a "bring your own LLM" approach to run your email campaigns. You can have better control over your personal data and transparency while managing costs effectively. 
 Amperstand works on top of your SMTP server, like SendGrid, Amazon SES, and Mailgun, and connects directly to your data warehouse to manage campaigns and user segments. This gives you better control over your lifecycle marketing spending.
 
 In version 0.1 of the platform, we only support plain-text emails or templates you created in Sendgrid or Mailgun. Our previous experience lies primarily in B2B SaaS, so we are biased towards this niche. However, the Amperstand design is industry-agnostic and suitable for any modern tech organization.
