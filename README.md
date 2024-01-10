@@ -41,3 +41,9 @@ In version 0.1 of the platform, we only support plain-text emails or templates y
 - Automatic time scheduler and chaining. 
 - Send data back to your CRM
 - Webhook-based contacts upload
+
+
+## Self-hosted features
+1. Custom LLM trained specifically for the better onboarding 
+2. In-house tech to avoid spam filters and some advice on this matter. 
+3. Cloud deployment and maintenance
